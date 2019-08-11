@@ -15,7 +15,7 @@ class BinaryTree{
 }
 
 
-public class InorderTraversalTree {
+public class inordertraversaltree {
 	
 	public static List<Integer> inordertraversal(NODE root){
 		List<Integer> result=new ArrayList<Integer>();
