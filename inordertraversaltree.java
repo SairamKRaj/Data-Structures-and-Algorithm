@@ -1,6 +1,6 @@
 package programming;
 import java.util.*;
-
+ 
 class NODE{
 	int data;
 	NODE left,right;
